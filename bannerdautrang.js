@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2s4RZhq' target='_blank'><img src='http://namphongsg.com/wp-content/uploads/2018/03/Du-an-tieu-bieu-NP-DRAGON.jpg' width='500px'/><br/>Bán đất nền Nam Phong Lotus Riverside City</a>. Liên hệ: 0934.641.205. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2s4RZhq' target='_blank'><img src='http://namphongsg.com/wp-content/uploads/2018/03/Du-an-tieu-bieu-NP-DRAGON.jpg' width='500px'/><br/>Bán đất nền dự án Long Hòa Garden</a>. Liên hệ: 0934.641.205. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
